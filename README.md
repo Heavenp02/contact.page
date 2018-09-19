@@ -4,15 +4,15 @@
 <figure>
   <img src="images/megbeavers.jpg" width="250" alt="Meg Beavers">
  </figure>
- <a href="Mbeavers@lhschools.org"></a>
+ <a href="http://www.lhschools.org/protected/GeneralError.aspx?aspxerrorpath=/beaversmegan.aspx"></a>
   <figure>
   <img src="images/dperry.jpg" width="250" alt="Doug Perry">
  </figure>
- <a href="dperry@lhschools.org"></a>
+ <a href="http://www.lhschools.org/protected/GeneralError.aspx?aspxerrorpath=/beaversmegan.aspx"></a>
 <figure>
   <img src="images/shanematthews.jpg" width="250" alt="Shane Matthews">
  </figure>
- <a href="smatthews@lhschools.org"></a>
+ <a href="http://www.lhschools.org/MathewsShane.aspx"></a>
   
   
   
